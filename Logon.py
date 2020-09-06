@@ -7,5 +7,6 @@ num3 = 168
 num1 = 1
 
 # resolve conflict
-num2 = 6688
+num2 = 88888888
 
+ 
