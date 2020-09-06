@@ -6,5 +6,6 @@ num3 = 168
 # dev first commit
 num1 = 1
 
-# Master commit
-num2 = 168
+# resolve conflict
+num2 = 6688
+
